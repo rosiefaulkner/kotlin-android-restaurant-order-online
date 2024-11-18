@@ -3,6 +3,11 @@
 Kotlin Online Shop is an interactive Android application that allows users to create and customize orders for ice cream sundaes. The app provides a user-friendly interface for selecting sizes, flavors, hot fudge amounts, and various toppings while dynamically calculating the total price. It includes a database for order history and navigational options for additional functionality.
 
 
+
+https://github.com/user-attachments/assets/b0d8525f-c0c7-4301-9398-8de5b588b78a
+
+
+
 ## Features
 
 - **Dynamic Pricing**: Prices are updated in real-time based on user selections.
