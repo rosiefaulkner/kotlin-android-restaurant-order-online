@@ -18,10 +18,10 @@ Kotlin Online Shop is an interactive Android application that allows users to cr
   - View order history
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/89fa11e4-5d64-407c-ab71-f060f54a6dc4" alt="kotline5" style="width: 30%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/2db14a77-ba8b-49d0-9aba-b23088c1c185" alt="kotlin3" style="width: 30%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/fac33f2d-a5a7-49f8-b2c9-9b369c67e1dd" alt="kotlin2" style="width: 30%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/5723f510-86cf-46e5-903f-f111167f5fff" alt="kotlin1" style="width: 30%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/5723f510-86cf-46e5-903f-f111167f5fff" alt="kotlin1" style="width: 20%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/fac33f2d-a5a7-49f8-b2c9-9b369c67e1dd" alt="kotlin2" style="width: 20%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/89fa11e4-5d64-407c-ab71-f060f54a6dc4" alt="kotline5" style="width: 20%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/2db14a77-ba8b-49d0-9aba-b23088c1c185" alt="kotlin3" style="width: 20%; height: auto;">
 </div>
 
 - **Navigation Menu**:
